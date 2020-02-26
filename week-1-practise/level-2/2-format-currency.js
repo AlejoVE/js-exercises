@@ -8,7 +8,7 @@
 
 function formatCurrency(x) {
    var format = "£" + Number.parseFloat(x).toFixed(2);
-   return format
+   return format;
 }
   
 /* DO NOT EDIT BELOW THIS LINE */
